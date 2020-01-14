@@ -1,0 +1,12 @@
+# Editor files.
+.*.sw[a-z]
+.sw[a-z]
+*~
+
+# OS files.
+.DS_Store
+
+# Artifacts
+/vendor
+bin/*
+/wadjet
